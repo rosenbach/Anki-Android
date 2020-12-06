@@ -149,6 +149,10 @@
         android:key="schedVer"
         android:title="@string/sched_ver"
         android:summary="@string/sched_ver_summ" />
+	<CheckBoxPreference
+		android:key="bubble"
+		android:title="@string/bubble_title"
+		android:summary="@string/bubble_summ" />
     <Preference
         android:key="about_dialog_preference"
         android:title="@string/about_title">

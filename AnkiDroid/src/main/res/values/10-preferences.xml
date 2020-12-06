@@ -57,6 +57,8 @@
     <string name="card_zoom">Card zoom</string>
     <string name="image_zoom">Image zoom</string>
     <string name="button_size">Answer button size</string>
+    <string name="bubble_title">Enable Tap To Add</string>
+    <string name="bubble_summ">Enables the Tap To Add feature</string>
     <string name="card_browser_font_size">Card browser font scaling</string>
     <string name="card_browser_hide_media">Display filenames in card browser</string>
     <string name="card_browser_hide_media_summary">Display media filenames in the card browser question/answer fields</string>
